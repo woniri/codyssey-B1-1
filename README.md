@@ -22,7 +22,7 @@
 | GPT-5.5               | Web       | 무료       | -                     |
 | Claude 4.6 Sonnet     | Web       | 무료       | -                     |
 | Gemini 3.5 Flash      | Web       | 무료       | -                     |
-| Grok                  | Web       | 무료       | -                     |
+| Grok 4.3              | Web       | 무료       | -                     |
 
 ## 📁 Repository 구조
 - `01_Model_Comparison/` — 모델 비교·선정 보고서
