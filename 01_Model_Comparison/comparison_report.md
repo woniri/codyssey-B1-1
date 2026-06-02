@@ -83,6 +83,7 @@ Action Items:
 **Gemini 3.5 Flash**
 - 공유 링크: [대화 보기](https://gemini.google.com/share/74d6906bd77d)
 - 핵심 요약: 요구사항 모두 충족, 날짜 및 요일까지 표기하여 구조적으로 가장 좋음, 추론없이 가장 균형적임
+  
 **Grok 4.3**
 - 공유 링크: [대화 보기](https://grok.com/share/bGVnYWN5_057aaf18-6051-49fe-aaa6-8f6f1b33a0a3)
 - 핵심 요약: 가장간결, 핵심 정보만 있음, 리스크 없음 단정함
