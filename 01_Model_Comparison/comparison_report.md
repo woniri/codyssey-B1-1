@@ -73,18 +73,18 @@ Action Items:
 ### 모델별 결과
 
 **GPT-5.5**
-- 공유 링크: [대화 보기](링크-https://chatgpt.com/share/6a1eac81-5198-8320-843d-5cd54e0a3653)
+- 공유 링크: [대화 보기](https://chatgpt.com/share/6a1eac81-5198-8320-843d-5cd54e0a3653)
 - 핵심 요약: 원문에 충실, 내용이 간결하고 한국어 문장력이 좋음, 리스크 설명이 적절함, 다만 논의 예정 같은 약한 추론이 포함됨. 실무에서 사용하기 안정적임.
 
 **Claude 4.6 Sonnet**
-- 공유 링크: [대화 보기](링크-https://claude.ai/share/e4c317df-e34e-4e0a-9fbb-8fb9b4ba983f)
+- 공유 링크: [대화 보기](https://claude.ai/share/e4c317df-e34e-4e0a-9fbb-8fb9b4ba983f)
 - 핵심 요약: 시각적 구조적으로 보기는 가장 좋음, 영향 가능 같은  추론이 들어감, 리스크 확대 해석됨
 
 **Gemini 3.5 Flash**
-- 공유 링크: [대화 보기](링크-https://gemini.google.com/share/74d6906bd77d)
+- 공유 링크: [대화 보기](https://gemini.google.com/share/74d6906bd77d)
 - 핵심 요약: 요구사항 모두 충족, 날짜 및 요일까지 표기하여 구조적으로 가장 좋음, 추론없이 가장 균형적임
 **Grok 4.3**
-- 공유 링크: [대화 보기](링크-https://grok.com/share/bGVnYWN5_057aaf18-6051-49fe-aaa6-8f6f1b33a0a3)
+- 공유 링크: [대화 보기](https://grok.com/share/bGVnYWN5_057aaf18-6051-49fe-aaa6-8f6f1b33a0a3)
 - 핵심 요약: 가장간결, 핵심 정보만 있음, 리스크 없음 단정함
 
 ## 6. 최종 선정 결론
