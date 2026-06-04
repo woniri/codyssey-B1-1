@@ -1,4 +1,5 @@
 # 보너스 과제 1 - Gemini Gems 배포
+(https://gemini.google.com/gem/1BxhhjBIHWw_U3YPwY2VwvimyOhBGhyZX?usp=sharing)
 
 ## 1. 개요
 
