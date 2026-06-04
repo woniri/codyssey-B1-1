@@ -8,6 +8,10 @@
 
 ChatGPT Image Generation
 
+## 생성 이미지
+
+![회의록 요약 AI 모델 비교 결과](./meeting_ai_comparison_infographic.png)
+
 ## 생성 프롬프트
 
 회의록 요약 AI 모델 비교 결과를 인포그래픽 형태로 시각화한다.
